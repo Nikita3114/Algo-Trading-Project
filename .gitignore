@@ -1,0 +1,11 @@
+# Ignore temporary files created by Jupyter Notebook
+.ipynb_checkpoints/
+*checkpoint.ipynb
+
+# Ignore local Python environment folders
+venv/
+__pycache__/
+
+# Ignore any large data files you might download or save
+*.csv
+*.zip
