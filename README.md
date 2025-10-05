@@ -26,7 +26,7 @@ The primary focus was to leverage software engineering skills to build robust ba
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_GITHUB_REPO_URL]
+    git clone https://github.com/Nikita3114/Algo-Trading-Project.git
     ```
 2.  **Create and Activate Environment:**
     ```bash
